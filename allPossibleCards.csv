@@ -1,0 +1,6 @@
+name,cost,type,atk,block,emEffects,target
+strike,1,atk,6,0,none,1
+defend,1,skill,0,5,none,1
+bash,2,atk,8,0,"(vulnerable,2)",1
+iron wave,1,atk,5,5,none,1
+cleave,1,atk,8,0,none,all
