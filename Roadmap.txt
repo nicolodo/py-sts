@@ -1,0 +1,16 @@
+Roadmap
+
+setup cards
+objects
+
+setup deck
+setup cards in draw, hand and discard piles
+
+setup player health
+
+enemy targeting and turn actions
+
+battle rewards card adding to deck
+potions adding
+relic adding
+
