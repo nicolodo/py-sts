@@ -1,7 +1,9 @@
 Roadmap
 
 setup cards
-objects
+    for all of the cards as a big list excel seems like it would be better
+    than doing it all on that csv in vs
+as objects
 
 setup deck
 setup cards in draw, hand and discard piles
